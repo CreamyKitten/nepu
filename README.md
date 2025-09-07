@@ -30,38 +30,38 @@
 ##  硬件连接
 
 ### 超声波模块1 (PB6/PB7)
-\\\
+\\
 HC-SR04_1    STM32F103C8
 VCC         3.3V
 GND         GND
 Trig        PB6
 Echo        PB7
-\\\
+\\
 
 ### 超声波模块2 (PA6/PA7)
-\\\
+\\
 HC-SR04_2    STM32F103C8
 VCC         3.3V
 GND         GND
 Trig        PA6
 Echo        PA7
-\\\
+\\
 
 ### OLED显示屏 (I2C)
-\\\
+\\
 OLED         STM32F103C8
 VCC         3.3V
 GND         GND
 SCL         PB8
 SDA         PB9
-\\\
+\\
 
 ### 其他外设
-\\\
+\\
 LED         PB14
 按键         PA0
 UART1       PA9(TX), PA10(RX)
-\\\
+\\
 
 
 ### 主要模块
@@ -101,9 +101,9 @@ UART1       PA9(TX), PA10(RX)
 4. 按键可设置报警距离和开关报警功能
 
 ### 串口数据格式
-\\\
+\\
 | Distance: 025 cm | Alarm: 020 cm | Status: ON |
-\\\
+\\
 
 ### 按键功能
 - **Key1**: 切换报警开关
@@ -128,7 +128,7 @@ UART1       PA9(TX), PA10(RX)
 
 ##  项目结构
 
-\\\
+\\
 STM32-Ultrasonic-Distance-Meter/
  README.md                 # 项目说明
  .gitignore               # Git忽略文件
@@ -143,7 +143,7 @@ STM32-Ultrasonic-Distance-Meter/
  docs/                    # 文档
      hardware.md         # 硬件说明
      images/             # 项目图片
-\\\
+\\
 
 ##  贡献指南
 
