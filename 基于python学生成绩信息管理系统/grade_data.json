@@ -1,0 +1,1925 @@
+{
+    "users": {
+        "teacher01": {
+            "username": "teacher01",
+            "password_hash": "e10adc3949ba59abbe56e057f20f883e",
+            "role": "teacher",
+            "real_name": "张老师",
+            "email": "zhang@school.com",
+            "phone": "13800000000",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "1": {
+            "username": "1",
+            "password_hash": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+            "role": "teacher",
+            "real_name": "1",
+            "email": "1@1.com",
+            "phone": "1",
+            "created_at": "2025-06-23 21:16:43"
+        }
+    },
+    "students": {
+        "202300001": {
+            "student_id": "202300001",
+            "name": "张三",
+            "class_name": "一班",
+            "gender": "男",
+            "phone": "13800000001",
+            "email": "张三@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300002": {
+            "student_id": "202300002",
+            "name": "李四",
+            "class_name": "一班",
+            "gender": "女",
+            "phone": "13800000002",
+            "email": "李四@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300003": {
+            "student_id": "202300003",
+            "name": "王五",
+            "class_name": "一班",
+            "gender": "男",
+            "phone": "13800000003",
+            "email": "王五@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300004": {
+            "student_id": "202300004",
+            "name": "赵六",
+            "class_name": "一班",
+            "gender": "女",
+            "phone": "13800000004",
+            "email": "赵六@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300005": {
+            "student_id": "202300005",
+            "name": "钱七",
+            "class_name": "一班",
+            "gender": "男",
+            "phone": "13800000005",
+            "email": "钱七@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300006": {
+            "student_id": "202300006",
+            "name": "孙八",
+            "class_name": "一班",
+            "gender": "女",
+            "phone": "13800000006",
+            "email": "孙八@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300007": {
+            "student_id": "202300007",
+            "name": "周九",
+            "class_name": "一班",
+            "gender": "男",
+            "phone": "13800000007",
+            "email": "周九@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300008": {
+            "student_id": "202300008",
+            "name": "吴十",
+            "class_name": "一班",
+            "gender": "女",
+            "phone": "13800000008",
+            "email": "吴十@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300009": {
+            "student_id": "202300009",
+            "name": "郑十一",
+            "class_name": "一班",
+            "gender": "男",
+            "phone": "13800000009",
+            "email": "郑十一@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300010": {
+            "student_id": "202300010",
+            "name": "王十二",
+            "class_name": "一班",
+            "gender": "女",
+            "phone": "13800000010",
+            "email": "王十二@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300011": {
+            "student_id": "202300011",
+            "name": "冯十三",
+            "class_name": "一班",
+            "gender": "男",
+            "phone": "13800000011",
+            "email": "冯十三@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300012": {
+            "student_id": "202300012",
+            "name": "陈十四",
+            "class_name": "一班",
+            "gender": "女",
+            "phone": "13800000012",
+            "email": "陈十四@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300013": {
+            "student_id": "202300013",
+            "name": "褚十五",
+            "class_name": "一班",
+            "gender": "男",
+            "phone": "13800000013",
+            "email": "褚十五@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300014": {
+            "student_id": "202300014",
+            "name": "卫十六",
+            "class_name": "一班",
+            "gender": "女",
+            "phone": "13800000014",
+            "email": "卫十六@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300015": {
+            "student_id": "202300015",
+            "name": "蒋十七",
+            "class_name": "一班",
+            "gender": "男",
+            "phone": "13800000015",
+            "email": "蒋十七@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300016": {
+            "student_id": "202300016",
+            "name": "沈十八",
+            "class_name": "二班",
+            "gender": "男",
+            "phone": "13800000016",
+            "email": "沈十八@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300017": {
+            "student_id": "202300017",
+            "name": "韩十九",
+            "class_name": "二班",
+            "gender": "女",
+            "phone": "13800000017",
+            "email": "韩十九@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300018": {
+            "student_id": "202300018",
+            "name": "杨二十",
+            "class_name": "二班",
+            "gender": "男",
+            "phone": "13800000018",
+            "email": "杨二十@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300019": {
+            "student_id": "202300019",
+            "name": "朱二一",
+            "class_name": "二班",
+            "gender": "女",
+            "phone": "13800000019",
+            "email": "朱二一@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300020": {
+            "student_id": "202300020",
+            "name": "秦二二",
+            "class_name": "二班",
+            "gender": "男",
+            "phone": "13800000020",
+            "email": "秦二二@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300021": {
+            "student_id": "202300021",
+            "name": "尤二三",
+            "class_name": "二班",
+            "gender": "女",
+            "phone": "13800000021",
+            "email": "尤二三@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300022": {
+            "student_id": "202300022",
+            "name": "许二四",
+            "class_name": "二班",
+            "gender": "男",
+            "phone": "13800000022",
+            "email": "许二四@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300023": {
+            "student_id": "202300023",
+            "name": "何二五",
+            "class_name": "二班",
+            "gender": "女",
+            "phone": "13800000023",
+            "email": "何二五@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300024": {
+            "student_id": "202300024",
+            "name": "吕二六",
+            "class_name": "二班",
+            "gender": "男",
+            "phone": "13800000024",
+            "email": "吕二六@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300025": {
+            "student_id": "202300025",
+            "name": "施二七",
+            "class_name": "二班",
+            "gender": "女",
+            "phone": "13800000025",
+            "email": "施二七@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300026": {
+            "student_id": "202300026",
+            "name": "张二八",
+            "class_name": "二班",
+            "gender": "男",
+            "phone": "13800000026",
+            "email": "张二八@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300027": {
+            "student_id": "202300027",
+            "name": "孔二九",
+            "class_name": "二班",
+            "gender": "女",
+            "phone": "13800000027",
+            "email": "孔二九@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300028": {
+            "student_id": "202300028",
+            "name": "曹三十",
+            "class_name": "二班",
+            "gender": "男",
+            "phone": "13800000028",
+            "email": "曹三十@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300029": {
+            "student_id": "202300029",
+            "name": "严三一",
+            "class_name": "二班",
+            "gender": "女",
+            "phone": "13800000029",
+            "email": "严三一@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        "202300030": {
+            "student_id": "202300030",
+            "name": "华三二",
+            "class_name": "二班",
+            "gender": "男",
+            "phone": "13800000030",
+            "email": "华三二@school.com",
+            "created_at": "2025-06-23 21:16:28"
+        }
+    },
+    "grades": [
+        {
+            "student_id": "202300001",
+            "subject": "数学",
+            "score": 67,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300001",
+            "subject": "数学",
+            "score": 90,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300001",
+            "subject": "语文",
+            "score": 64,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300001",
+            "subject": "语文",
+            "score": 85,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300001",
+            "subject": "英语",
+            "score": 73,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300001",
+            "subject": "英语",
+            "score": 87,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300002",
+            "subject": "数学",
+            "score": 72,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300002",
+            "subject": "数学",
+            "score": 88,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300002",
+            "subject": "语文",
+            "score": 64,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300002",
+            "subject": "语文",
+            "score": 82,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300002",
+            "subject": "英语",
+            "score": 67,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300002",
+            "subject": "英语",
+            "score": 85,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300003",
+            "subject": "数学",
+            "score": 72,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300003",
+            "subject": "数学",
+            "score": 86,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300003",
+            "subject": "语文",
+            "score": 70,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300003",
+            "subject": "语文",
+            "score": 89,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300003",
+            "subject": "英语",
+            "score": 71,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300003",
+            "subject": "英语",
+            "score": 90,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300004",
+            "subject": "数学",
+            "score": 75,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300004",
+            "subject": "数学",
+            "score": 69,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300004",
+            "subject": "语文",
+            "score": 75,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300004",
+            "subject": "语文",
+            "score": 74,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300004",
+            "subject": "英语",
+            "score": 83,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300004",
+            "subject": "英语",
+            "score": 85,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300005",
+            "subject": "数学",
+            "score": 83,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300005",
+            "subject": "数学",
+            "score": 84,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300005",
+            "subject": "语文",
+            "score": 72,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300005",
+            "subject": "语文",
+            "score": 76,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300005",
+            "subject": "英语",
+            "score": 72,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300005",
+            "subject": "英语",
+            "score": 73,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300006",
+            "subject": "数学",
+            "score": 76,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300006",
+            "subject": "数学",
+            "score": 79,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300006",
+            "subject": "语文",
+            "score": 71,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300006",
+            "subject": "语文",
+            "score": 72,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300006",
+            "subject": "英语",
+            "score": 75,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300006",
+            "subject": "英语",
+            "score": 79,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300007",
+            "subject": "数学",
+            "score": 80,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300007",
+            "subject": "数学",
+            "score": 74,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300007",
+            "subject": "语文",
+            "score": 80,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300007",
+            "subject": "语文",
+            "score": 83,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300007",
+            "subject": "英语",
+            "score": 78,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300007",
+            "subject": "英语",
+            "score": 77,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300008",
+            "subject": "数学",
+            "score": 79,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300008",
+            "subject": "数学",
+            "score": 80,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300008",
+            "subject": "语文",
+            "score": 70,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300008",
+            "subject": "语文",
+            "score": 74,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300008",
+            "subject": "英语",
+            "score": 71,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300008",
+            "subject": "英语",
+            "score": 69,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300009",
+            "subject": "数学",
+            "score": 78,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300009",
+            "subject": "数学",
+            "score": 86,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300009",
+            "subject": "语文",
+            "score": 78,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300009",
+            "subject": "语文",
+            "score": 78,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300009",
+            "subject": "英语",
+            "score": 74,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300009",
+            "subject": "英语",
+            "score": 77,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300010",
+            "subject": "数学",
+            "score": 74,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300010",
+            "subject": "数学",
+            "score": 73,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300010",
+            "subject": "语文",
+            "score": 73,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300010",
+            "subject": "语文",
+            "score": 79,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300010",
+            "subject": "英语",
+            "score": 70,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300010",
+            "subject": "英语",
+            "score": 70,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300011",
+            "subject": "数学",
+            "score": 71,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300011",
+            "subject": "数学",
+            "score": 77,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300011",
+            "subject": "语文",
+            "score": 85,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300011",
+            "subject": "语文",
+            "score": 87,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300011",
+            "subject": "英语",
+            "score": 70,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300011",
+            "subject": "英语",
+            "score": 66,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300012",
+            "subject": "数学",
+            "score": 85,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300012",
+            "subject": "数学",
+            "score": 87,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300012",
+            "subject": "语文",
+            "score": 68,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300012",
+            "subject": "语文",
+            "score": 66,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300012",
+            "subject": "英语",
+            "score": 71,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300012",
+            "subject": "英语",
+            "score": 71,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300013",
+            "subject": "数学",
+            "score": 88,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300013",
+            "subject": "数学",
+            "score": 68,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300013",
+            "subject": "语文",
+            "score": 84,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300013",
+            "subject": "语文",
+            "score": 69,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300013",
+            "subject": "英语",
+            "score": 90,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300013",
+            "subject": "英语",
+            "score": 73,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300014",
+            "subject": "数学",
+            "score": 82,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300014",
+            "subject": "数学",
+            "score": 64,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300014",
+            "subject": "语文",
+            "score": 89,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300014",
+            "subject": "语文",
+            "score": 69,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300014",
+            "subject": "英语",
+            "score": 88,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300014",
+            "subject": "英语",
+            "score": 66,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300015",
+            "subject": "数学",
+            "score": 87,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300015",
+            "subject": "数学",
+            "score": 66,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300015",
+            "subject": "语文",
+            "score": 90,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300015",
+            "subject": "语文",
+            "score": 73,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300015",
+            "subject": "英语",
+            "score": 93,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300015",
+            "subject": "英语",
+            "score": 71,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300016",
+            "subject": "数学",
+            "score": 70,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300016",
+            "subject": "数学",
+            "score": 89,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300016",
+            "subject": "语文",
+            "score": 68,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300016",
+            "subject": "语文",
+            "score": 85,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300016",
+            "subject": "英语",
+            "score": 76,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300016",
+            "subject": "英语",
+            "score": 91,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300017",
+            "subject": "数学",
+            "score": 75,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300017",
+            "subject": "数学",
+            "score": 93,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300017",
+            "subject": "语文",
+            "score": 68,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300017",
+            "subject": "语文",
+            "score": 81,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300017",
+            "subject": "英语",
+            "score": 67,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300017",
+            "subject": "英语",
+            "score": 83,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300018",
+            "subject": "数学",
+            "score": 71,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300018",
+            "subject": "数学",
+            "score": 91,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300018",
+            "subject": "语文",
+            "score": 77,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300018",
+            "subject": "语文",
+            "score": 92,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300018",
+            "subject": "英语",
+            "score": 67,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300018",
+            "subject": "英语",
+            "score": 84,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300019",
+            "subject": "数学",
+            "score": 80,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300019",
+            "subject": "数学",
+            "score": 77,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300019",
+            "subject": "语文",
+            "score": 80,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300019",
+            "subject": "语文",
+            "score": 79,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300019",
+            "subject": "英语",
+            "score": 72,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300019",
+            "subject": "英语",
+            "score": 76,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300020",
+            "subject": "数学",
+            "score": 73,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300020",
+            "subject": "数学",
+            "score": 71,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300020",
+            "subject": "语文",
+            "score": 74,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300020",
+            "subject": "语文",
+            "score": 76,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300020",
+            "subject": "英语",
+            "score": 77,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300020",
+            "subject": "英语",
+            "score": 76,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300021",
+            "subject": "数学",
+            "score": 87,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300021",
+            "subject": "数学",
+            "score": 87,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300021",
+            "subject": "语文",
+            "score": 75,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300021",
+            "subject": "语文",
+            "score": 77,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300021",
+            "subject": "英语",
+            "score": 81,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300021",
+            "subject": "英语",
+            "score": 83,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300022",
+            "subject": "数学",
+            "score": 76,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300022",
+            "subject": "数学",
+            "score": 75,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300022",
+            "subject": "语文",
+            "score": 73,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300022",
+            "subject": "语文",
+            "score": 67,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300022",
+            "subject": "英语",
+            "score": 82,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300022",
+            "subject": "英语",
+            "score": 88,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300023",
+            "subject": "数学",
+            "score": 71,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300023",
+            "subject": "数学",
+            "score": 70,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300023",
+            "subject": "语文",
+            "score": 81,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300023",
+            "subject": "语文",
+            "score": 85,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300023",
+            "subject": "英语",
+            "score": 73,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300023",
+            "subject": "英语",
+            "score": 75,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300024",
+            "subject": "数学",
+            "score": 79,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300024",
+            "subject": "数学",
+            "score": 82,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300024",
+            "subject": "语文",
+            "score": 79,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300024",
+            "subject": "语文",
+            "score": 82,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300024",
+            "subject": "英语",
+            "score": 77,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300024",
+            "subject": "英语",
+            "score": 80,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300025",
+            "subject": "数学",
+            "score": 81,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300025",
+            "subject": "数学",
+            "score": 85,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300025",
+            "subject": "语文",
+            "score": 77,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300025",
+            "subject": "语文",
+            "score": 77,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300025",
+            "subject": "英语",
+            "score": 78,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300025",
+            "subject": "英语",
+            "score": 81,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300026",
+            "subject": "数学",
+            "score": 74,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300026",
+            "subject": "数学",
+            "score": 73,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300026",
+            "subject": "语文",
+            "score": 75,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300026",
+            "subject": "语文",
+            "score": 77,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300026",
+            "subject": "英语",
+            "score": 85,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300026",
+            "subject": "英语",
+            "score": 81,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300027",
+            "subject": "数学",
+            "score": 86,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300027",
+            "subject": "数学",
+            "score": 88,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300027",
+            "subject": "语文",
+            "score": 69,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300027",
+            "subject": "语文",
+            "score": 70,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300027",
+            "subject": "英语",
+            "score": 74,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300027",
+            "subject": "英语",
+            "score": 67,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300028",
+            "subject": "数学",
+            "score": 87,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300028",
+            "subject": "数学",
+            "score": 69,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300028",
+            "subject": "语文",
+            "score": 88,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300028",
+            "subject": "语文",
+            "score": 66,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300028",
+            "subject": "英语",
+            "score": 93,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300028",
+            "subject": "英语",
+            "score": 76,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300029",
+            "subject": "数学",
+            "score": 92,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300029",
+            "subject": "数学",
+            "score": 71,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300029",
+            "subject": "语文",
+            "score": 88,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300029",
+            "subject": "语文",
+            "score": 74,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300029",
+            "subject": "英语",
+            "score": 87,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300029",
+            "subject": "英语",
+            "score": 67,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300030",
+            "subject": "数学",
+            "score": 82,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300030",
+            "subject": "数学",
+            "score": 68,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300030",
+            "subject": "语文",
+            "score": 87,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300030",
+            "subject": "语文",
+            "score": 68,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300030",
+            "subject": "英语",
+            "score": 90,
+            "exam_date": "2024-06-15",
+            "exam_type": "期中考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        },
+        {
+            "student_id": "202300030",
+            "subject": "英语",
+            "score": 75,
+            "exam_date": "2024-011-15",
+            "exam_type": "期末考试",
+            "teacher_id": "teacher01",
+            "created_at": "2025-06-23 21:16:28"
+        }
+    ],
+    "subjects": [
+        "数学",
+        "语文",
+        "英语"
+    ],
+    "exam_types": [
+        "期中考试",
+        "期末考试"
+    ]
+}
