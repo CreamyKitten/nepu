@@ -60,7 +60,7 @@
 
 1. 克隆项目
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/CreamyKitten/student-grade-management-system
 cd 基于python学生成绩信息管理系统
 ```
 
